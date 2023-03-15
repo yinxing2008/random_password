@@ -1,0 +1,17 @@
+{
+	"pages": [
+		{
+			"path": "pages/home",
+			"style": {
+				"navigationBarTitleText": "随机密码-蓝不蓝编程"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "蓝不蓝编程",
+		"navigationBarBackgroundColor": "#418DF9",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
