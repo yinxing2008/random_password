@@ -1,0 +1,44 @@
+
+.page-wrapper {
+    margin: 0;
+    font-size: 28rpx;
+    line-height: 1.5;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    -webkit-tap-highlight-color: transparent;
+}
+.row {
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+  text-align: center;
+}
+
+.password {
+  margin-bottom: 30px;
+}
+.btn-row{
+  margin: auto;
+  display: flex;
+}
+.refresh {
+  text-align: center;
+  border-radius: 1rem;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  background-color: #418DF9;
+}
+.copy {
+  margin-left: 15px;
+  text-align: center;
+  border-radius: 1rem;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  background-color: #418DF9;
+}

@@ -1,0 +1,9 @@
+<view class="page-wrapper ">
+  <view class="row">
+    <view class="password">{{ password }}</view>
+    <view class="btn-row">
+      <view class="refresh" bindtap="refreshRandomPassword">刷新</view>
+      <view class="copy" bindtap="copy">复制</view>
+    </view>
+  </view>
+</view>
