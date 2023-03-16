@@ -1,12 +1,12 @@
 
 # 背景
-前面已输出多个系列：
-《[十余种编程语言做个计算器](https://cxyxy.blog.csdn.net/article/details/128761660)》
-《[十余种编程语言写2048小游戏](https://cxyxy.blog.csdn.net/article/details/128696358)》
-《[17种编程语言+10种排序算法](https://cxyxy.blog.csdn.net/article/details/128760848)》
-《[十余种编程语言写博客系统](https://cxyxy.blog.csdn.net/article/details/128755326)》
-《[十余种编程语言写云笔记](https://cxyxy.blog.csdn.net/article/details/128760968)》
-《[N种编程语言做个记事本](https://cxyxy.blog.csdn.net/article/details/128761825)》
+前面已输出多个系列：  
+《[十余种编程语言做个计算器](https://cxyxy.blog.csdn.net/article/details/128761660)》  
+《[十余种编程语言写2048小游戏](https://cxyxy.blog.csdn.net/article/details/128696358)》  
+《[17种编程语言+10种排序算法](https://cxyxy.blog.csdn.net/article/details/128760848)》  
+《[十余种编程语言写博客系统](https://cxyxy.blog.csdn.net/article/details/128755326)》  
+《[十余种编程语言写云笔记](https://cxyxy.blog.csdn.net/article/details/128760968)》  
+《[N种编程语言做个记事本](https://cxyxy.blog.csdn.net/article/details/128761825)》  
 
 # 目标
 为编程初学者打造入门学习项目，使用各种主流编程语言来实现。
@@ -23,11 +23,6 @@
 3. 查询应用详情
 4. 按照名称搜索应用
 5. 支持mysql数据库
-# 开发工具
-[下载IntelliJ IDEA](https://cxyxy.blog.csdn.net/article/details/128722658)
-
-# 工程截图
-![](https://img-blog.csdnimg.cn/556d1628cc6d472da6695f07b00ce897.png)
 
 # 开源地址
 [https://gitee.com/lblbc/appstore](https://gitee.com/lblbc/appstore)
