@@ -4,7 +4,7 @@ const app = getApp()
 
 Page({
   data: {
-    password: 'ddd',
+    password: '',
   },
   onShow: function () {
     this.refreshRandomPassword()
