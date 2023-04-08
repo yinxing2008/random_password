@@ -1,17 +1,12 @@
 # Introduction
-App store for programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
+Plane game for programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
 
 
 # Preview
-![](https://img-blog.csdnimg.cn/c3eaa47d8a5e4ba6bef57e71d740d3da.png)
-# Server Features
- 1. Query app categories
- 2. Query apps
- 3. Query app detail
- 4. Search app
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/88f5ab97c8d4480f917b14ce06bdfe54~tplv-k3u1fbpfcp-zoom-1.image)
 
 # Open Source
-[https://gitee.com/lblbc/appstore](https://gitee.com/lblbc/appstore)
+[https://gitee.com/lblbc/plane_game](https://gitee.com/lblbc/plane_game)
 
 
 # About Me
@@ -20,4 +15,3 @@ Ever worked for Huawei as software developer
 focus on programming learning. http://lblbc.cn/note  
 Including：Android(Java,Kotlin),iOS(SwiftUI),Flutter(Dart),Window Desktop(C#),Front End(WeChat mini-program,uni-app,vue),Back End（Java,Kotlin,NodeJS,Python,PHP,Go,C,C++）,HarmonyOS(Huawei)  
 Follow me on China wechat：蓝不蓝编程  
-![](https://img-note.csdnimg.cn/4c62bfb4cca540b1a26825f2b1a8af7e.png)
