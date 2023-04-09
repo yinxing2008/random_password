@@ -1,12 +1,12 @@
 # Introduction
-Plane game for programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
+Random password for programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
 
 
 # Preview
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/88f5ab97c8d4480f917b14ce06bdfe54~tplv-k3u1fbpfcp-zoom-1.image)
 
 # Open Source
-[https://gitee.com/lblbc/plane_game](https://gitee.com/lblbc/plane_game)
+[https://gitee.com/lblbc/random-password](https://gitee.com/lblbc/random-password)
 
 
 # About Me

@@ -1,16 +1,17 @@
-# random_password
+# Introduction
+Random password for programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
 
-A lblbc project.
 
-## Getting Started
+# Preview
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8cd1ac8b974f4e7487a108da9b4007df~tplv-k3u1fbpfcp-zoom-1.image)
 
-This project is a starting point for a Flutter application.
+# Open Source
+[https://gitee.com/lblbc/random-password](https://gitee.com/lblbc/random-password)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# About Me
+Graduated from China Xiamen University  
+Ever worked for Huawei as software developer  
+focus on programming learning. http://lblbc.cn/blog  
+Including：Android(Java、Kotlin)、iOS(SwiftUI)、Flutter(Dart)、Window Desktop(C#)、Front End(WeChat mini-program、uni-app、vue)、Back End（Java、Kotlin、NodeJS、Python、PHP、Go、C、C++）、HarmonyOS(Huawei)  
+Follow me on China wechat：蓝不蓝编程  
+Random password for programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS

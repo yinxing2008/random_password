@@ -26,7 +26,7 @@
 ![](https://img-blog.csdnimg.cn/fe925d46c14440718e7de53b2b7a8d0f.png)
 
 # 开源地址
-[https://gitee.com/lblbc/appstore](https://gitee.com/lblbc/appstore)
+[https://gitee.com/lblbc/random-password](https://gitee.com/lblbc/random-password)
 ![](https://img-blog.csdnimg.cn/2583a18b2a324be4903d390542bbcfe9.png)
 
 
