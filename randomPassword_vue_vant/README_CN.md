@@ -15,7 +15,7 @@
 右侧为服务器端版本：Java、Python、Go、PHP、NodeJS
 
 # Vue版效果图
-![](https://img-blog.csdnimg.cn/6566970fb10e4d238ba9226a33bf110a.png)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8e1c10e43acd44b6bf7325c439c6d709~tplv-k3u1fbpfcp-zoom-1.image)
 
 # 在线体验
 [http://lblbc.cn/redirect/appStore](http://lblbc.cn/redirect/appStore)

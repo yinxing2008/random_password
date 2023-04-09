@@ -3,7 +3,7 @@ Random password for programming starters, including Android,iOS,Huawei HarmonyOS
 
 
 # Preview
-![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/706f77182e7a494fb319fe395f690d3e~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8e1c10e43acd44b6bf7325c439c6d709~tplv-k3u1fbpfcp-zoom-1.image)
 
 # Open Source
 [https://gitee.com/lblbc/random-password](https://gitee.com/lblbc/random-password)

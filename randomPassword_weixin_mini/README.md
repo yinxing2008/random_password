@@ -6,7 +6,7 @@ Right：Java、Python、Go、PHP、NodeJS
 
 
 # Preview
-![](https://img-blog.csdnimg.cn/d45c7b6e2ef44f548fb30794df70053b.png)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8e1c10e43acd44b6bf7325c439c6d709~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 # Open Source

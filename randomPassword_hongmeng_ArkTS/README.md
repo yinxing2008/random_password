@@ -6,8 +6,7 @@ Right：Java、Python、Go、PHP、NodeJS
 
 
 # Preview
-![](https://img-blog.csdnimg.cn/6cbbac98b29f4513960d3af81933ac0f.png)
-
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8e1c10e43acd44b6bf7325c439c6d709~tplv-k3u1fbpfcp-zoom-1.image)
 
 # Open Source
 [https://gitee.com/lblbc/random-password](https://gitee.com/lblbc/random-password)
