@@ -1,5 +1,5 @@
 # Introduction
-Network note for programming starters.
+Random password for programming starters.
 ![](https://img-blog.csdnimg.cn/faea1470ad3b4e8eba3b093d261d637d.png)
 Left：Android、iOS、Huawei HarmonyOS、Flutter、Vue、uni-app。  
 Right：Java、Python、Go、PHP、NodeJS
@@ -7,15 +7,10 @@ Right：Java、Python、Go、PHP、NodeJS
 
 # Preview
 ![](https://img-blog.csdnimg.cn/6cbbac98b29f4513960d3af81933ac0f.png)
-# Server Features
- 1. Register
- 2. Login
- 3. Add\Delete\Modify\Query note
+
 
 # Open Source
-[https://gitee.com/lblbc/cloud-note](https://gitee.com/lblbc/cloud-note)
-![](https://img-blog.csdnimg.cn/2f0b2bfe7c724d32bb3b3c938791c143.png)
-
+[https://gitee.com/lblbc/random-password](https://gitee.com/lblbc/random-password)
 
 # About Me
 Graduated from China Xiamen University  
