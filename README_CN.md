@@ -12,7 +12,7 @@
 本系列实现模仿微信飞机大战。
 
 # 效果图
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/88f5ab97c8d4480f917b14ce06bdfe54~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8e1c10e43acd44b6bf7325c439c6d709~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 # 开源地址
